@@ -1,9 +1,0 @@
-C:\Users\dar\Documents\Visual Studio 2012\Projects\final\Final_2\Final_2\bin\Debug\Final_2.exe.config
-C:\Users\dar\Documents\Visual Studio 2012\Projects\final\Final_2\Final_2\bin\Debug\Final_2.exe
-C:\Users\dar\Documents\Visual Studio 2012\Projects\final\Final_2\Final_2\bin\Debug\Final_2.pdb
-C:\Users\dar\Documents\Visual Studio 2012\Projects\final\Final_2\Final_2\obj\Debug\Final_2.exe
-C:\Users\dar\Documents\Visual Studio 2012\Projects\final\Final_2\Final_2\obj\Debug\Final_2.pdb
-C:\Users\dar\Documents\Visual Studio 2012\Projects\final\Final_2\Final_2\obj\Debug\Final_2.csprojResolveAssemblyReference.cache
-C:\Users\dar\Documents\Visual Studio 2012\Projects\final\Final_2_Alcorn\Final_2\bin\Debug\Final_2.exe.config
-C:\Users\dar\Documents\Visual Studio 2012\Projects\final\Final_2_Alcorn\Final_2\obj\Debug\Final_2.exe
-C:\Users\dar\Documents\Visual Studio 2012\Projects\final\Final_2_Alcorn\Final_2\obj\Debug\Final_2.pdb
